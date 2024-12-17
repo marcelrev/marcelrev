@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marcelrev
 - 👀 I’m interested in ... Coding, games, VR and educational softwares.
-- 🌱 I’m currently learning ...Java, javascpript, Unicode and React.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...C, Java, javascpript, Unicode and React.
+- 💞️ I’m looking to collaborate on ... Projects in order to give me experience.
 - 📫 How to reach me ...
 
 <!---
